@@ -155,4 +155,3 @@ This project is proprietary.
 ## Author
 
 Truck Booking System Development Team
-
